@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dataLayer", "dataLayer\dataLayer.csproj", "{9E6BE26D-0D64-4E7A-A7B4-F9B43DC4361A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "backLayer", "backLayer\backLayer.csproj", "{93C4469A-ADA5-4B87-B91C-0F640156899D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E6BE26D-0D64-4E7A-A7B4-F9B43DC4361A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E6BE26D-0D64-4E7A-A7B4-F9B43DC4361A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E6BE26D-0D64-4E7A-A7B4-F9B43DC4361A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E6BE26D-0D64-4E7A-A7B4-F9B43DC4361A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93C4469A-ADA5-4B87-B91C-0F640156899D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93C4469A-ADA5-4B87-B91C-0F640156899D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93C4469A-ADA5-4B87-B91C-0F640156899D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93C4469A-ADA5-4B87-B91C-0F640156899D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
